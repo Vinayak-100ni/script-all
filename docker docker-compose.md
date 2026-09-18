@@ -32,5 +32,4 @@ newgrp docker
 docker version
 
 docker compose version
-
 ```
